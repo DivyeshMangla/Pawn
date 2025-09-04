@@ -1,0 +1,51 @@
+# Build directories
+cmake-build-*/
+build/
+out/
+bin/
+lib/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeScripts/
+Testing/
+CTestTestfile.cmake
+CTestCostData.txt
+*.dir/
+
+# CLion/JetBrains IDE files
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# User-specific files
+*.swp
+*.swo
+*~
+*.bak
+
+# Executables and object files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.log
+
+# Ninja build files
+build.ninja
+rules.ninja
+
+# Temporary files
+*.tmp
+
